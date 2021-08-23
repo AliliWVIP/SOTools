@@ -1,0 +1,6 @@
+framework module Pods_SOTools_Tests {
+  umbrella header "Pods-SOTools_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
